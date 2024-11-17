@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+### Name: Sanjay K
+### Reg No: 212223220094
 ## AIM
 ## ALGORITHM:
 1. Start the program.
